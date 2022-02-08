@@ -1,6 +1,6 @@
 # TI-Prompt: Towards a Prompt Tuning Method for Few-shot Threat Intelligence Twitter Classification
 * This repository is used for the paper *TI-Prompt: Towards a Prompt Tuning Method for Few-shot Threat Intelligence 
-Twitter Classification*, ICCS 2022.
+Twitter Classification*, COMPSAC 2022, submission 178.
 ## Usage
 * pip install -r requirements.txt
 * run ti_prompt.py with arguments in run_argparse.py
