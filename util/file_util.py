@@ -70,8 +70,3 @@ def listjson_to_list(file_dir):
     except Exception as e:
         print("File writing exception: ", e)
         return []
-
-if __name__ == '__main__':
-    root_path = "/home/youyizhe/PythonProject/DataCon2021/"
-    all_data = listjson_to_list(root_path + "Data/20211012/web_data/data.json")
-    print(len(all_data))
